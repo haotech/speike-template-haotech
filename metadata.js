@@ -7,7 +7,7 @@ module.exports = {
     "description": {
       "type": "string",
       "message": "Project description",
-      "default": "A Vue.js project"
+      "default": "A Speike project"
     },
     "author": {
       "type": "string",
