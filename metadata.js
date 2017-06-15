@@ -20,6 +20,7 @@ module.exports = {
     }
   },
   "skipCompile": [
-    "App/src/**/*.vue"
+    "App/src/**/*.vue",
+    "App/src/assets/*"
   ]
 };
