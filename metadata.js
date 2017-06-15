@@ -21,6 +21,6 @@ module.exports = {
   },
   "skipCompile": [
     "App/src/**/*.vue",
-    "App/src/assets/*"
+    "App/src/assets/*.png"
   ]
 };
