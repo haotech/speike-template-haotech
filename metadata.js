@@ -18,5 +18,8 @@ module.exports = {
       "message": "server port",
       "default": "8360"
     }
-  }
+  },
+  "skipCompile": [
+    "App/src/**/*.vue"
+  ]
 };
