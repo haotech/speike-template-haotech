@@ -16,7 +16,7 @@ module.exports = {
     "serverPort": {
       "type": "string",
       "message": "server port",
-      "default": "8360"
+      "default": 8360
     }
   }
 };
