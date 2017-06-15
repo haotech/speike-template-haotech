@@ -12,11 +12,6 @@ module.exports = {
     "author": {
       "type": "string",
       "message": "Author"
-    },
-    "serverPort": {
-      "type": "string",
-      "message": "server port",
-      "default": "8360"
     }
   }
 };
