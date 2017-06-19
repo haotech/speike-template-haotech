@@ -1,4 +1,4 @@
-import project from '../../api/project'
+import project from '../api/project'
 
 export default {
   getProjects (cb) {
