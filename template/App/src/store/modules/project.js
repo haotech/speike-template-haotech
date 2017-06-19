@@ -1,4 +1,4 @@
-import project from '../../api/project'
+import project from '../../service/project'
 import * as types from '../mutation-types'
 
 // initial state
