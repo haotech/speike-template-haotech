@@ -1,3 +1,1 @@
-module.exports = [
-  ['/api', '/index']
-];
+module.exports = [];
