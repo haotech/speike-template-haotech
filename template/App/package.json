@@ -1,8 +1,8 @@
 {
-  "name": "koa-vue-template-vue",
+  "name": "{{ name }}",
   "version": "1.0.0",
-  "description": "koa与vue脚手架模板 - 前端",
-  "author": "berwin <berwin1995@qq.com>",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
